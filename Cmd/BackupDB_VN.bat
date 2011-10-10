@@ -14,3 +14,4 @@ REM copy %DB_Folder%\OAMS_log.ldf D:\oams-deploy\DB_VN\OAMS_%date:~-4,4%%date:~-
 
 iisreset
 
+pause
