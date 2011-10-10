@@ -12,3 +12,5 @@ iisreset -stop
 iisreset
 
 svn.exe commit %Save_Folder% -m "UDB"
+
+pause
