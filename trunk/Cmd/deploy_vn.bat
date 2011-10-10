@@ -6,5 +6,7 @@ svn.exe update %Save_Folder%
 
 7za e %Save_Folder%\oams-deploy.zip -o%OAMS_Folder% -y
 
+pause
+
 
 
