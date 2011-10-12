@@ -10,4 +10,3 @@ iisreset -stop
 
 iisreset
 
-pause
