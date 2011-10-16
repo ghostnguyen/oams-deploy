@@ -1,4 +1,5 @@
-
+cd D:\oams-deploy\Cmd\
+d:
 SET Save_Folder=D:\oams-deploy
 SET OAMS_Folder=D:\oams.vn
 svn.exe update %Save_Folder%
