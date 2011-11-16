@@ -1,3 +1,5 @@
+d:
+cd D:\oams-deploy\Cmd
 
 SET DB_Folder=D:\oams.vn\App_Data
 SET Save_Folder=D:\oams-deploy\DB_VN
